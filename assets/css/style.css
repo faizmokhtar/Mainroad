@@ -390,7 +390,6 @@ select {
 
 .logo__link {
 	display: inline-block;
-	text-transform: lowercase;
 }
 
 .logo__title {
@@ -399,6 +398,7 @@ select {
 	font-weight: 700;
 	line-height: 1;
 	color: #000;
+	text-transform: lowercase;
 }
 
 .logo__tagline {
@@ -411,6 +411,7 @@ select {
 	line-height: 1;
 	color: {{ $highlightColor }};
 	border-top: 1px solid #ebebeb;
+	text-transform: uppercase;
 }
 
 .divider {

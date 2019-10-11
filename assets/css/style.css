@@ -398,7 +398,6 @@ select {
 	font-weight: 700;
 	line-height: 1;
 	color: #000;
-	text-transform: lowercase;
 }
 
 .logo__tagline {
